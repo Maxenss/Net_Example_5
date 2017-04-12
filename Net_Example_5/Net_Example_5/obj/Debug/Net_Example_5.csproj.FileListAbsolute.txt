@@ -1,0 +1,5 @@
+C:\Users\Юрий\Desktop\Net_Example_5\Net_Example_5\obj\Debug\Net_Example_5.csprojResolveAssemblyReference.cache
+C:\Users\Юрий\Desktop\Net_Example_5\Net_Example_5\bin\Debug\Net_Example_5.exe
+C:\Users\Юрий\Desktop\Net_Example_5\Net_Example_5\bin\Debug\Net_Example_5.pdb
+C:\Users\Юрий\Desktop\Net_Example_5\Net_Example_5\obj\Debug\Net_Example_5.exe
+C:\Users\Юрий\Desktop\Net_Example_5\Net_Example_5\obj\Debug\Net_Example_5.pdb
